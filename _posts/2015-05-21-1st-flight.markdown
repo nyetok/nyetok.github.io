@@ -1,0 +1,6 @@
+---
+published: true
+title: 1st flight
+layout: post
+---
+Tinypress blogging platform
