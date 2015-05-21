@@ -3,4 +3,6 @@ published: true
 title: 1st flight
 layout: post
 ---
-Tinypress blogging platform
+Tinypress blogging platform.
+
+It offers a simple editing interface, customizable themes
