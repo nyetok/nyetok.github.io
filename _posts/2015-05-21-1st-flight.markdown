@@ -6,3 +6,5 @@ layout: post
 Tinypress blogging platform.
 
 It offers a simple editing interface, customizable themes
+
+Plus, it is free.
